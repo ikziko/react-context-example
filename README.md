@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+In the project directory, first Install the dependencies in the local node_modules folder, you can run:
+### `npm inistall`
 
-In the project directory, you can run:
-
+Then start the project, you can run:
 ### `yarn start`
 
 Runs the app in the development mode.<br />
